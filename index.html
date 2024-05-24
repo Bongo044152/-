@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Halloween E-Commerce Website</title>
+    <!-- font-family -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- css file link -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<script src="./init.js"></script>
+<body>
+    <!-- header section -->
+    <header class='header'>
+        <!-- fas fa-... -> Font Awesome 圖標庫 -->
+        <a href="#" class="logo"><i class="fa-solid fa-film"></i>Logo</a>
+        <!-- nav標籤是導覽頁 -->
+        <nav class="menu">
+            <a href="#home" class="active">home</a>
+            <a href="#movie">movie</a>
+            <a href="#details">details</a>
+            <a href="reviews">reviews</a>
+            <a href="#contact">contact</a>
+        </nav>
+        <div class="icon">
+            <div id="menu-btn" class="fas fa-bars"></div>
+            <div id="search-btn" class="fas fa-search"></div>
+            <a href="#" class="fas fa-shopping-cart"></a>
+            <a href="#" class="fas fa-user"></a>
+        </div>
+
+        <form action="" class="search-form">
+            <input type="search" placeholder="點我搜尋..." id="input-box">
+            <label for="input-box" class="fas fa-search"></label>
+        </form>
+    </header>
+
+    <!-- home section -->
+    <script src="./slide.js"></script>
+    <section id="home" class="home">
+        <div class="home-slider">
+            <div class="myslide slide" style="display: flex;">
+                <div class="content">
+                    <h3> 基森灑水記 </h3>
+                    <p> -- hot -- </p>
+                    <button class="btn">lern more</button>
+                </div>
+            </div>
+            <div class="myslide slide">
+                <div class="content">
+                    <h3> 3個農民打一個孟潔 </h3>
+                    <p> -- 獨家 -- </p>
+                    <button class="btn">lern more</button>
+                </div>
+            </div>
+            <div class="myslide slide">
+                <div class="content">
+                    <h3> 農民曆險記 </h3>
+                    <p> -- 特別推薦 -- </p>
+                    <button class="btn">lern more</button>
+                </div>
+            </div>
+            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        </div>
+    </section>
+
+
+
+    <!-- js file link -->
+    <script src="./script.js"></script>
+</body>
+</html>
