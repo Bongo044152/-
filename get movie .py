@@ -14,6 +14,9 @@ web_driver : (合適的版本)
 '''
 
 
+target_link = 'https://www.vscinemas.com.tw/vsweb/film/index.aspx'
+chrome_driver_path = r'C:\Users\USER\Desktop\chrome-test\chromedriver-win64\chromedriver.exe'
+
 def w_json(data:dict):
     import json
     # 指定儲存位置並將資料寫入JSON檔案
@@ -62,8 +65,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-driver = webdriver.Chrome(r'C:\Users\USER\Desktop\chrome-test\chromedriver-win64\chromedriver.exe',options=chrome_options)    # 指向 chromedriver 的位置
-driver.get('https://www.vscinemas.com.tw/vsweb/film/index.aspx')
+driver = webdriver.Chrome(chrome_driver_path, options=chrome_options)    # 指向 chromedriver 的位置
+driver.get(target_link)
 wait = WebDriverWait(driver, 10)
 
 element = wait.until(
