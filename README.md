@@ -20,5 +20,5 @@ Chrome_test provides a stable version that "will not automatically update", so t
 - Download link: https://googlechromelabs.github.io/chrome-for-testing/
 
 
-## Precautions
+## Warning
 If you plan to execute `get movie.py` file, you need to configure your local environment to ensure smooth execution.
