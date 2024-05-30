@@ -43,9 +43,9 @@ window.onscroll = function(){
     home_slider.style.marginTop = headerHeight;
 };
 
-let btn = document.querySelectorAll("section button")
-for(let i of btn){
-    i.addEventListener("click",function(){
-        window.location = "https://www.google.com.tw/";
-    });
-};
+// let btn = document.querySelectorAll("section button")
+// for(let i of btn){
+//     i.addEventListener("click",function(){
+//         window.location = "https://www.google.com.tw/";
+//     });
+// };

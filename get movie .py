@@ -31,7 +31,7 @@ def select_by_bs4(element) -> dict:
     element_html = element.get_attribute("outerHTML")
     soup = BeautifulSoup(element_html)
     li_tags = soup.find_all('li')
-    index = 0
+    num = 0
     check = []
     for i in li_tags:
         # print(type(i)) -> 顯示 <class 'bs4.element.Tag'> 需要變成str才可以利用bs4抓取
@@ -45,11 +45,18 @@ def select_by_bs4(element) -> dict:
         # check duplicate information
         if flim_name in check:
             continue
-
+        if "：" in flim_name:
+            # print(flim_name)
+            # print("修改過後->")
+            index = flim_name.index("：")
+            new_name = flim_name[:index+1] + "\n" + flim_name[index+3:]
+            # print(new_name)
+            new_name = new_name.strip()
+            flim_name = new_name
         # store information
-        data[index] = {"name":flim_name,"img":img_link}
+        data[num] = {"name":flim_name,"img":img_link}
         check.append(flim_name)
-        index += 1
+        num += 1
     return data
 
 # 預設環境

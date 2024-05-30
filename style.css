@@ -267,7 +267,7 @@ html::-webkit-scrollbar-button {
 
 /* heme section css animation*/
 
-.prev, .next {
+.prev, .next{
     cursor: pointer;
     position: absolute;
     top: 50%;
@@ -284,12 +284,12 @@ html::-webkit-scrollbar-button {
 .next {
     right: 0;
     border-radius: 3px 0 0 3px;
-  }
-.prev:hover, .next:hover {
+}
+.prev:hover, .next:hover{
     background-color: rgba(0,0,0,0.8);
 }
 
-.slide {
+.slide{
     animation-name: slide;
     animation-duration: .5s;
 }
@@ -303,6 +303,67 @@ html::-webkit-scrollbar-button {
         opacity: 1;
     }
 }
+
+/* movie */
+#movie .movie{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 3rem 5rem;
+    opacity: 0;
+    transition: opacity 1s;
+}
+#movie .movie.ed{
+    opacity: 1;
+}
+
+#movie .movie .content{
+    color: white;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#movie .movie .content h3{
+    transition-delay: .2s;
+    /* position: absolute;
+    bottom: 88%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+    font-size: 3rem;
+    width: 21rem;
+    /* white-space: nowrap; */
+    text-align: center;
+}
+#movie .movie .content p{
+    transition-delay: .4s;
+    font-size: 2rem;
+    padding: 0 3rem;
+    padding-top: 2rem;
+}
+#movie .movie img{
+    transition-delay: .6s;
+    float: right;
+    height: auto;
+}
+#movie .movie .content button{
+    font-size: 1.5rem;
+    background-color: black;
+    width: fit-content; /* 重點 */
+    margin: auto;
+    margin-top: 1.5rem;
+    padding: .8rem;
+    color: aliceblue;
+}
+#movie .movie .content button:hover{
+    background-color: rgba(255, 166, 0, 0.705);
+    cursor: pointer;
+    letter-spacing: .1rem;
+}
+
 
 /* media */
 @media (min-width:1020px){
