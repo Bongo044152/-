@@ -51,6 +51,33 @@ html::-webkit-scrollbar-thumb:hover{
     cursor: pointer;
 }
 
+/*
+    隱藏滾動條 
+html::-webkit-scrollbar {
+    display: none;
+}
+    設置滾動條寬度
+html::-webkit-scrollbar {
+    width: 10px;
+}
+    設置滾動條背景顏色
+html::-webkit-scrollbar {
+    background-color: #f1f1f1;
+}
+    設置滾動條輪廓
+html::-webkit-scrollbar {
+    border: 2px solid #ccc;
+}
+    設置滾動條圓角
+html::-webkit-scrollbar {
+    border-radius: 5px;
+}
+    設置滾動條按鈕（滾動箭頭）的顏色
+html::-webkit-scrollbar-button {
+    background-color: #999;
+}
+*/
+
 body{
     overflow-x: hidden;
     background: var(--black);
@@ -140,33 +167,6 @@ body{
     color: var(--main-color);
     animation: floating 2s linear infinite;
 }
-
-/*
-    隱藏滾動條 
-html::-webkit-scrollbar {
-    display: none;
-}
-    設置滾動條寬度
-html::-webkit-scrollbar {
-    width: 10px;
-}
-    設置滾動條背景顏色
-html::-webkit-scrollbar {
-    background-color: #f1f1f1;
-}
-    設置滾動條輪廓
-html::-webkit-scrollbar {
-    border: 2px solid #ccc;
-}
-    設置滾動條圓角
-html::-webkit-scrollbar {
-    border-radius: 5px;
-}
-    設置滾動條按鈕（滾動箭頭）的顏色
-html::-webkit-scrollbar-button {
-    background-color: #999;
-}
-*/
 
 
 .header .search-form{
