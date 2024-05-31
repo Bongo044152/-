@@ -1,82 +1,100 @@
 {
     "0": {
         "name": "\u8166\u7b4b\u6025\u8f49\u5f4e2",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240418002.jpg"
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240418002.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/06/13",
+        "info": "\u5c0e\u6f14\uff1a\u51f1\u723e\u897f\u66fc\u6069\n\u6f14\u54e1\uff1a(\u914d\u97f3)\u611b\u54aa\u6ce2\u52d2\u3001\u83f2\u8389\u7d72\u53f2\u5bc6\u65af\u3001\u8def\u6613\u65af\u5e03\u840a\u514b\u3001\u6258\u5c3c\u6d77\u723e\u3001\u9e97\u838e\u62c9\u7435\u62c9\u3001\u746a\u96c5\u970d\u514b\n\u985e\u578b\uff1a \u52d5\u756b\u3001\u559c\u5287\u3001\u5192\u96aa\n\u7247\u9577\uff1a 1 \u6642 36 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7166"
     },
     "1": {
-        "name": "\u8299\u8389\u6b50\u838e\uff1a\n\u9ea5\u65af\u50b3\u5947\u7bc7\u7ae0",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240508009.jpg"
+        "name": "\u8299\u8389\u6b50\u838e\uff1a\u760b\u72c2\u9ea5\u65af\u50b3\u5947\u7bc7\u7ae0",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240508009.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/22",
+        "info": "\u5c0e\u6f14\uff1a\u55ac\u6cbb\u7c73\u52d2\n\u6f14\u54e1\uff1a\u5b89\u96c5\u6cf0\u52d2\u55ac\u4f0a\u3001\u514b\u91cc\u65af\u6f22\u65af\u6c83\u3001\u6e6f\u59c6\u4f2f\u514b\n\u985e\u578b\uff1a \u5947\u5e7b/\u79d1\u5e7b\u3001\u5192\u96aa\u3001\u52d5\u4f5c\n\u7247\u9577\uff1a 2 \u6642 28 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7160"
     },
     "2": {
-        "name": "\u7329\u7403\u5d1b\u8d77\uff1a\n\u8a95\u751f",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240305002.jpg"
+        "name": "\u7329\u7403\u5d1b\u8d77\uff1a\u738b\u570b\u8a95\u751f",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240305002.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/08",
+        "info": "\u5c0e\u6f14\uff1a\u5a01\u65af\u67cf\n\u6f14\u54e1\uff1a\u6b50\u6587\u8482\u683c\u3001\u8299\u857e\u96c5\u827e\u502b\u3001\u51f1\u6587\u675c\u862d\u3001\u5f7c\u5f97\u6885\u80af\u3001\u5a01\u5ec9\n\u985e\u578b\uff1a \u5947\u5e7b/\u79d1\u5e7b\u3001\u52d5\u4f5c\n\u7247\u9577\uff1a 2 \u6642 25 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7159"
     },
     "3": {
         "name": "\u4e5d\u9f8d\u57ce\u5be8\u4e4b\u570d\u57ce",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240509009.jpg"
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240509009.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/17",
+        "info": "\u5c0e\u6f14\uff1a\u912d\u4fdd\u745e\n\u6f14\u54e1\uff1a\u53e4\u5929\u6a02\u3001\u6d2a\u91d1\u5bf6\u3001\u4efb\u8ce2\u9f4a\u3001\u6797\u5cef\u3001\u5289\u4fca\u8b19\u3001\u9ec3\u5fb7\u658c\u3001\u80e1\u5b50\u5f64\u3001\u4f0d\u5141\u9f8d\u3001\u5f35\u6587\u5091\n\u985e\u578b\uff1a \u52d5\u4f5c\n\u7247\u9577\uff1a 2 \u6642 6 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7232"
     },
     "4": {
         "name": "\u5287\u5834\u7248 \u6392\u7403\u5c11\u5e74!! \u5783\u573e\u5834\u7684\u6c7a\u6230",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240227025.jpg"
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240227025.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/04/12",
+        "info": "\u5c0e\u6f14\uff1a\u6eff\u4ef2\u52f8\n\u6f14\u54e1\uff1a(\u914d\u97f3)\u6751\u7028\u6b65\u3001\u77f3\u5ddd\u754c\u4eba\u3001\u68b6\u88d5\u8cb4\u3001\u4e2d\u6751\u60a0\u4e00\n\u985e\u578b\uff1a \u52d5\u756b\u3001\u559c\u5287\u3001\u5287\u60c5\n\u7247\u9577\uff1a 1 \u6642 25 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7142"
     },
     "5": {
-        "name": "\u9b3c\u821e\u6751\uff1a\n\u8d77\u6e90",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240517001.jpg"
+        "name": "\u9b3c\u821e\u6751\uff1a\u8a5b\u5492\u8d77\u6e90",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240517001.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/24",
+        "info": "\u5c0e\u6f14\uff1a\u9f4a\u83ab\u53f2\u5766\u6ce2\n\u6f14\u54e1\uff1a\u5967\u82e5\u62c9\u838e\u62c9\u3001\u83ab\u8fea\u57c3\u592b\u7f85\u897f\u5a1c\u3001\u55ac\u8fea\u666e\u62c9\u7d0d\u5854\n\u985e\u578b\uff1a \u9a5a\u609a\u3001\u6050\u6016\n\u7247\u9577\uff1a 2 \u6642 3 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7229"
     },
     "6": {
         "name": "\u5200\u528d\u4e82\u821e \u8ff4 -\u865b\u50b3 \u71c3\u71d2\u7684\u672c\u80fd\u5bfa- \u3010\u5f8c\u7bc7\u3011",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240524004.jpg"
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240524004.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/06/14",
+        "info": "\u5c0e\u6f14\uff1a\u5e02\u5ddd\u91cf\u4e5f\n\u6f14\u54e1\uff1a(\u914d\u97f3)\u9ce5\u6d77\u6d69\u8f14\u3001\u524d\u91ce\u667a\u662d\u3001\u6cf0\u52c7\u6c23\u3001\u962a\u53e3\u5927\u52a9\u3001\u65b0\u57a3\u6a3d\u52a9\u3001\u5c71\u4e0b\u8aa0\u4e00\u90ce\u3001\u4f50\u85e4\u62d3\u4e5f\u3001\u6751\u7028\u6b65\u3001\u7530\u4e38\u7be4\u5fd7\u3001\u9f4a\u85e4\u58ef\n\u985e\u578b\uff1a \u52d5\u756b\n\u7247\u9577\uff1a 1 \u6642 35 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7290"
     },
     "7": {
         "name": "\u53bb\u5531\u5361\u62c9OK\u5427",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240124001.jpg"
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240124001.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/02/07",
+        "info": "\u5c0e\u6f14\uff1a\u5c71\u4e0b\u6566\u5f18\n\u6f14\u54e1\uff1a\u7dbe\u91ce\u525b\u3001\u9f4b\u85e4\u6f64\u3001\u82b3\u6839\u4eac\u5b50\u3001\u5317\u6751\u4e00\u8f1d\n\u985e\u578b\uff1a \u559c\u5287\u3001\u97f3\u6a02/\u6b4c\u821e\n\u7247\u9577\uff1a 1 \u6642 48 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7048"
     },
     "8": {
-        "name": "D2\u3010\u5287\u5834\u7248IDOLiSH7-\u5076\u50cf\u661f\u9858-\u30111\u9031\u5e74\u7279\u5225\u6b61\u6176\u5834-\u73fe\u5834\u76f4\u64ad",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240524018.jpg"
+        "name": "\u6a5f\u52d5\u6230\u58eb\u92fc\u5f48SEED FREEDOM",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240327013.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/04/19",
+        "info": "\u5c0e\u6f14\uff1a\u798f\u7530\u5df1\u6d25\u592e\n\u6f14\u54e1\uff1a(\u914d\u97f3)\u4fdd\u5fd7\u7e3d\u4e00\u6717\u3001\u7530\u4e2d\u7406\u60e0\u3001\u77f3\u7530\u5f70\u3001\u68ee\u5948\u5948\u5b50\u3001\u9234\u6751\u5065\u4e00\u3001\u5742\u672c\u771f\u7dbe\u3001\u6298\u7b20\u5bcc\u7f8e\u5b50\u3001\u4e09\u77f3\u7434\u4e43\u3001\u5b50\u5b89\u6b66\u4eba\u3001\u7b39\u6cbc\u6643\u3001\u6851\u5cf6\u6cd5\u5b50\u3001\u4f50\u5009\u7dbe\u97f3\n\u985e\u578b\uff1a \u52d5\u756b\u3001\u5192\u96aa\u3001\u52d5\u4f5c\n\u7247\u9577\uff1a 2 \u6642 5 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7152"
     },
     "9": {
-        "name": "D1\u3010\u5287\u5834\u7248IDOLiSH7-\u5076\u50cf\u661f\u9858-\u30111\u9031\u5e74\u7279\u5225\u6b61\u6176\u5834-\u73fe\u5834\u76f4\u64ad",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240524019.jpg"
+        "name": "\u6211\u5728\u9019\u88e1\u7b49\u4f60",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240409024.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/10",
+        "info": "\u5c0e\u6f14\uff1a\u9127\u4f9d\u6db5\n\u6f14\u54e1\uff1a\u8303\u5c11\u52f3\u3001\u5289\u4fca\u8b19\u3001\u8a79\u5b50\u8431\u3001\u6797\u4e88\u665e\n\u985e\u578b\uff1a \u5947\u5e7b/\u79d1\u5e7b\n\u7247\u9577\uff1a 1 \u6642 40 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7208"
     },
     "10": {
-        "name": "\u6a5f\u52d5\u6230\u58eb\u92fc\u5f48SEED FREEDOM",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240327013.jpg"
+        "name": "\u7279\u5225\u7e3d\u96c6\u7bc7 \u540d\u5075\u63a2\u67ef\u5357 VS. \u602a\u76dc\u57fa\u5fb7",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240227021.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/03/29",
+        "info": "\u5c0e\u6f14\uff1a\u5bae\u4e0b\u96bc\u4e00\n\u6f14\u54e1\uff1a(\u914d\u97f3)\u9ad8\u5c71\u5357\u3001\u5c71\u53e3\u52dd\u5e73\n\u985e\u578b\uff1a \u52d5\u756b\u3001\u52d5\u4f5c\u3001\u61f8\u7591\u3001\u5287\u60c5\n\u7247\u9577\uff1a 1 \u6642 20 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7099"
     },
     "11": {
-        "name": "\u6211\u5728\u9019\u88e1\u7b49\u4f60",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240409024.jpg"
+        "name": "\u7576\u6bba\u624b\u6200\u611b\u6642",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240521036.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/31",
+        "info": "\u5c0e\u6f14\uff1a\u674e\u5bdf\u6797\u514b\u96f7\u7279\n\u6f14\u54e1\uff1a\u683c\u862d\u9b91\u5a01\u723e\u3001\u5b89\u5353\u4e9e\u970d\u5a1c\u3001\u5967\u65af\u6c40\u827e\u7c73\u91cc\u6b50\n\u985e\u578b\uff1a \u559c\u5287\u3001\u52d5\u4f5c\n\u7247\u9577\uff1a 1 \u6642 55 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7271"
     },
     "12": {
-        "name": "\u7279\u5225\u7e3d\u96c6\u7bc7 \u540d\u5075\u63a2\u67ef\u5357 VS. \u602a\u76dc\u57fa\u5fb7",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240227021.jpg"
+        "name": "\u6012\u706b\u72c2\u7334",
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240419002.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/31",
+        "info": "\u5c0e\u6f14\uff1a\u6234\u592b\u5e15\u6258\n\u6f14\u54e1\uff1a\u6234\u592b\u5e15\u6258\u3001\u6c99\u6258\u5361\u666e\u5229\u3001\u76ae\u6258\u5df4\u8a31\u3001\u7dad\u5e73\u590f\u746a\u3001\u897f\u574e\u9054\u514b\u723e\u3001\u8607\u5e0c\u5854\u675c\u91cc\u5e15\u62c9\u3001\u827e\u5e0c\u6c76\u59ae\u5361\u723e\u585e\u5361\u3001\u963f\u8fea\u63d0\u5361\u5b54\u7279\u3001\u99ac\u5361\u862d\u5fb7\u6234\u53f8\u6f58\u5fb7\n\u985e\u578b\uff1a \u52d5\u4f5c\u3001\u5287\u60c5\n\u7247\u9577\uff1a 2 \u6642 1 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7233"
     },
     "13": {
-        "name": "\u7576\u6bba\u624b\u6200\u611b\u6642",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240521036.jpg"
-    },
-    "14": {
-        "name": "\u5931\u61b6\u6bba\u795e",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240517024.jpg"
-    },
-    "15": {
-        "name": "\u6012\u706b\u72c2\u7334",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240419002.jpg"
-    },
-    "16": {
         "name": "\u516b\u6212",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240429001.jpg"
-    },
-    "17": {
-        "name": "\u90a3\u65e5\u6e05\u6668\u771f\u4ee4\u4eba\u611f\u5230\u7a7a\u865b",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240513002.jpg"
-    },
-    "18": {
-        "name": "\u5979\u6b7b\u4e86",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240509001.jpg"
-    },
-    "19": {
-        "name": "\u6ce2\u7d0b",
-        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240513004.jpg"
+        "img": "https://www.vscinemas.com.tw/vsweb/upload/film/film_20240429001.jpg",
+        "time": "\u5a01\u79c0\u4e0a\u6620\u65e5\u671f\uff1a2024/05/31",
+        "info": "\u5c0e\u6f14\uff1a\u90b1\u7acb\u5049\n\u6f14\u54e1\uff1a(\u914d\u97f3)\u5ebe\u6f84\u6176\u3001\u90b5\u96e8\u8587\u3001\u5eb9\u5b97\u83ef\u3001\u8a31\u5c55\u69ae\u3001\u8a31\u5c55\u745e\u3001\u937e\u6b23\u51cc\u3001\u9b4f\u5982\u8431\u3001\u8a31\u5149\u6f22\u3001\u5289\u51a0\u5ef7\n\u985e\u578b\uff1a \u52d5\u756b\u3001\u559c\u5287\u3001\u5192\u96aa\n\u7247\u9577\uff1a 1 \u6642 36 \u5206",
+        "link": "https://www.vscinemas.com.tw/vsweb/film/detail.aspx?id=7111"
     }
 }

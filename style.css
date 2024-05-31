@@ -79,7 +79,7 @@ html::-webkit-scrollbar-button {
 */
 
 body{
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     background: var(--black);
 }
 
@@ -260,12 +260,13 @@ body{
     animation: slide .5s linear;
 }
 .home .home-slider .content .btn:hover{
+    transition: .05s linear;
     background-color: rgba(255, 166, 0, 0.705);
     cursor: pointer;
     letter-spacing: .1rem;
 }
 
-/* heme section css animation*/
+/* heme section css animation -> slide*/
 
 .prev, .next{
     cursor: pointer;
@@ -304,17 +305,18 @@ body{
     }
 }
 
-/* movie */
+/* movie section */
 #movie .movie{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     padding: 3rem 5rem;
     opacity: 0;
-    transition: opacity 1s;
 }
-#movie .movie.ed{
+#movie .movie.active{
+    transition: .8s linear;
     opacity: 1;
+    animation: opacity;
 }
 
 #movie .movie .content{
@@ -328,27 +330,49 @@ body{
 
 
 #movie .movie .content h3{
-    transition-delay: .2s;
-    /* position: absolute;
-    bottom: 88%;
-    left: 50%;
-    transform: translate(-50%, -50%); */
     font-size: 3rem;
     width: 21rem;
     /* white-space: nowrap; */
     text-align: center;
+    opacity: 0;
+    transform: translateY(50%);
 }
+#movie .movie .content h3.active{
+    transition: .3s linear;
+    opacity: 1;
+    transform: translateY(0);
+    animation: opacity,transform;
+}
+
 #movie .movie .content p{
-    transition-delay: .4s;
     font-size: 2rem;
     padding: 0 3rem;
     padding-top: 2rem;
+    transform: translateY(50%);
+    opacity: 0;
+    line-height: 5rem;
+    width: 516.59px;
 }
+#movie .movie .content p.active{
+    transition: .3s linear;
+    opacity: 1;
+    transform: translateY(0);
+    animation: opacity,transform;
+}
+
 #movie .movie img{
-    transition-delay: .6s;
     float: right;
     height: auto;
+    transform: translateX(100%);
+    opacity: 0;
 }
+#movie .movie img.active{
+    transition: .3s linear;
+    opacity: 1;
+    transform: translateX(0);
+    animation: opacity,transform;
+}
+
 #movie .movie .content button{
     font-size: 1.5rem;
     background-color: black;
@@ -359,6 +383,7 @@ body{
     color: aliceblue;
 }
 #movie .movie .content button:hover{
+    transition: .05s linear;
     background-color: rgba(255, 166, 0, 0.705);
     cursor: pointer;
     letter-spacing: .1rem;
@@ -368,7 +393,7 @@ body{
 /* media */
 @media (min-width:1020px){
     html{
-        font-size: 100%;
+        font-size: 70%;
     }
     .header{
         padding: 2rem;
